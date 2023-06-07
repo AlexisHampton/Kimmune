@@ -1,2 +1,2 @@
 # Kimmune
-A little rpg currently in progress. Started Dec 2022 
+A little rpg no longer in progress. Dec 2022 - Jan 2023
